@@ -1,0 +1,4 @@
+configparser==4.0.2
+entrypoints==0.3
+keyring==18.0.1
+six==1.16.0
